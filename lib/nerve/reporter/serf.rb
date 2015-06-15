@@ -1,5 +1,5 @@
 require 'nerve/reporter/base'
-
+require 'fileutils'
 
 class Nerve::Reporter
   class Serf < Base
